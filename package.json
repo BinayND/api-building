@@ -1,6 +1,6 @@
 {
 	"name": "api-building",
-	"author": "binay-kumar-kanojia",
+	"author": "Binay kumar",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
